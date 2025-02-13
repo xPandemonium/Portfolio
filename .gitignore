@@ -11,6 +11,8 @@ node_modules
 dist
 dist-ssr
 *.local
+projectREADME.md
+20-react-homework-demo-01.gif
 
 # Editor directories and files
 .vscode/*
