@@ -1,5 +1,4 @@
 import Header from '../components/Header';
-import Footer from '../components/Footer';
 
 
 // In case of an error, the ErrorPage component will be rendered.
@@ -13,7 +12,6 @@ export default function ErrorPage() {
         <p className='text-center'>Sorry, the page you are looking for cannot be found.</p>
       </div>
     </div>
-    <Footer />
     </>
   )
 }

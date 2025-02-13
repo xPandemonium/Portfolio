@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <main>
+      <main className='h-screen flex'>
         <Outlet />
       </main>
       <Footer />
