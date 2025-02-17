@@ -7,7 +7,7 @@ function App() {
   return (
     <>
       <Header />
-      <main className='h-screen flex'>
+      <main className='h-fit flex'>
         <Outlet />
       </main>
       <Footer />
