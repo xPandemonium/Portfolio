@@ -7,13 +7,13 @@ import { Styles } from "../Styles/Styles";
 
 export default function AboutMe() {
   return (
-    <div className="flex items-center size-fit mb-200px">
+    <div className="flex items-center">
       <div className={Styles.container}>
         <img className="mx-auto block h-24 rounded-full my-3" src="/src/assets/profile.png"/>
         <h1 className={Styles.pageTittle}>
           About Me
         </h1>
-        <div className="text-xl/10 w-[90%] items-center mx-auto my-10">
+        <div className="w-[90%] items-center mx-auto my-10">
           {/* About me paragraph */}
           <p className={Styles.paragraphContainer}>
           My full name is Jonathan Correa Iglesias. I am in my early 20s. I was born in Havana, Cuba but now I'm in Houston, Texas where I was raised and currently live. 
