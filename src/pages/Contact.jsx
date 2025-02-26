@@ -20,7 +20,7 @@ export default function Contact() {
   };
 
   return (
-    <div className="h-dvh">
+    <div>
       <div className={Styles.container}>
         <h2 className={Styles.pageTittle}>Contact Me</h2>
         <form onSubmit={handleSubmit} className={Styles.formContainer}>
