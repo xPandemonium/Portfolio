@@ -5,13 +5,13 @@ import Footer from './components/Footer';
 function App() {
 
   return (
-    <>
+    <div className='flex flex-col justify-between min-h-screen'>
       <Header />
-      <main className='h-fit'>
+      <main>
         <Outlet />
       </main>
       <Footer />
-    </>
+    </div>
   )
 }
 
