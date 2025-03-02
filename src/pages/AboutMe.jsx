@@ -26,7 +26,7 @@ export default function AboutMe() {
           
           {/* List of Languages I've learned */}
           <ul className="list-disc ml-8">
-          <li><span className="inline-flex"><FaGithub /></span> GitHub</li>
+            <li><span className="inline-flex"><FaGithub /></span> GitHub</li>
             <li><span className="inline-flex"><FaHtml5 /></span> HTML</li>
             <li><span className="inline-flex"><FaCss3Alt /></span> CSS</li>
             <li><span className="inline-flex"><FaJs /></span> JavaScript</li>
