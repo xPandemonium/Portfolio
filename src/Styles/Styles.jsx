@@ -1,6 +1,6 @@
 export const Styles = {
     // Nav links
-    navLinks: 'hover:text-bg hover:underline',
+    navLinks: 'block mt-1 px-2 py-1 sm:px-4 sm:mt-0 sm:py-0 hover:text-bg font-semibold block hover:bg-headerMenuHover rounded-lg',
     link: 'text-link hover:text-linkHover hover:underline',
     // Container
     container: 'bg-main p-4 min-xl:w-[65%] max-sm:w-[90%] w-[80%] mx-auto my-10 rounded-lg shadow-lg text-white',
