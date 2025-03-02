@@ -9,7 +9,7 @@ export default function Resume() {
             <div className={Styles.container}>
                 <h1 className={Styles.pageTittle}>Resume</h1>
                 <div className={Styles.paragraphContainer}>
-                    <p>My resume is available for download <a href="/resume.pdf" className={Styles.link}>here</a>.</p>
+                    <p>My resume is available for download <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="blank" className={Styles.link}>here</a>.</p>
                 </div>
                 <div className={Styles.paragraphContainer}>
                     <h2>Experience</h2>
