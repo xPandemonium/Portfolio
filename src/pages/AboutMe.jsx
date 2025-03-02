@@ -1,7 +1,3 @@
-{/* Importing SVGs to use later */ }
-import { FaHtml5, FaCss3Alt, FaJs, FaNode, FaNodeJs, FaServer, FaGithub} from "react-icons/fa";
-import { SiTypescript, SiReact,  } from "react-icons/si";
-import { AiOutlineCloudServer } from "react-icons/ai";
 import { Styles } from "../Styles/Styles";
 
 
@@ -20,25 +16,9 @@ export default function AboutMe() {
           I am a very hard working and dedicated person. I am always looking to improve myself and learn new things.
           I am a very quick learner and like to take inspiration from wherever I can. Always open to criticism and feedback as I believe that is the best way to grow.
           </p>
-          <div className={Styles.paragraphContainer}>
-          I am currently enrolled in a Full Stack Web Development program. I am learning a lot and enjoying the process.
-          So far, I have learned:
-          
-          {/* List of Languages I've learned */}
-          <ul className="list-disc ml-8">
-            <li><span className="inline-flex"><FaGithub /></span> GitHub</li>
-            <li><span className="inline-flex"><FaHtml5 /></span> HTML</li>
-            <li><span className="inline-flex"><FaCss3Alt /></span> CSS</li>
-            <li><span className="inline-flex"><FaJs /></span> JavaScript</li>
-            <li><span className="inline-flex"><SiTypescript /></span> Typescript</li>
-            <li><span className="inline-flex"><SiReact /></span> React</li>
-            <li><span className="inline-flex"><FaNode /></span> Node.js</li>
-            <li><span className="inline-flex"><FaNodeJs /></span> Express.js</li>
-            <li><span className="inline-flex"><FaServer /></span> SQL</li>
-            <li><span className="inline-flex"><AiOutlineCloudServer /></span> APIs</li>
-          </ul>
-          </div>
-
+          <p className={Styles.paragraphContainer}>
+          I am currently enrolled in a Full Stack Web Development program, where I am immersing myself in the world of coding and software development. The process has been both challenging and rewarding, and I enjoy the sense of accomplishment that comes with building functional and efficient applications. Web development has allowed me to sharpen my problem-solving abilities, strengthen my logical thinking, and explore creative solutions to complex technical issues. My passion for technology and software runs deep, and I’m excited to continue expanding my expertise in this ever-evolving field.
+          </p>
           {/* Work experience */}
           <p className={Styles.paragraphContainer}>
           I've been working as a Diesel Technician for over 4 years. I have a lot of experience in the field and have learned a lot. I am very good at troubleshooting and problem solving. I mostly worked on the software side of things. 
