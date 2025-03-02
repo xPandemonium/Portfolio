@@ -16,6 +16,7 @@ export default function AboutMe() {
           I am a very hard working and dedicated person. I am always looking to improve myself and learn new things.
           I am a very quick learner and like to take inspiration from wherever I can. Always open to criticism and feedback as I believe that is the best way to grow.
           </p>
+          {/* Education paragraph */}
           <p className={Styles.paragraphContainer}>
           I am currently enrolled in a Full Stack Web Development program, where I am immersing myself in the world of coding and software development. The process has been both challenging and rewarding, and I enjoy the sense of accomplishment that comes with building functional and efficient applications. Web development has allowed me to sharpen my problem-solving abilities, strengthen my logical thinking, and explore creative solutions to complex technical issues. My passion for technology and software runs deep, and I’m excited to continue expanding my expertise in this ever-evolving field.
           </p>
