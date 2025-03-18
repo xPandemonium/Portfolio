@@ -5,7 +5,7 @@ export default function AboutMe() {
   return (
     <div className="flex items-center">
       <div className={Styles.container}>
-        <img className="mx-auto block h-24 rounded-full my-3" src="/src/assets/profile.png"/>
+        <img className="mx-auto block h-24 rounded-full my-3" src="/Profile.png"/>
         <h1 className={Styles.pageTittle}>
           About Me
         </h1>
