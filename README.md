@@ -6,7 +6,7 @@
 
 ## Link [![Netlify Status](https://api.netlify.com/api/v1/badges/73dd9d30-de69-472a-a471-230c3fd2f32f/deploy-status)](https://app.netlify.com/sites/visionary-cactus-cce254/deploys)
 
-The site was deployed using Netlify using a custom domain [jonathancorreaiglesias.com](jonathancorreaiglesias.com). 
+The site was deployed using Netlify using a custom domain [jonathancorreaiglesias.com](https://jonathancorreaiglesias.com/). 
 
 ## Description
 
